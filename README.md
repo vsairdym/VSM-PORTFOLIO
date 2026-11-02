@@ -5,7 +5,6 @@
 ### Senior Software Engineer · Web · Mobile · Backend · Cloud
 
 **[🌐 Live portfolio](https://vsairdym.github.io/VSM-PORTFOLIO)** &nbsp;·&nbsp;
-**[⚡ 60-second recruiter view](https://vsairdym.github.io/#recruiter)** &nbsp;·&nbsp;
 **[💼 LinkedIn](https://www.linkedin.com/in/vsairm0x0)** &nbsp;·&nbsp;
 **[✉️ Email](mailto:venkatasairdy.maram@gmail.com)**
 
@@ -114,9 +113,3 @@ I'm open to Senior Software Engineer roles across web, mobile, backend and platf
 
 <div align="center">
 <br>
-
-**If you're a recruiter, try the [60-second view →](https://vsairdym.github.io/#recruiter)**
-
-<sub>Designed and built by Venkata Sai Maram · © 2026</sub>
-
-</div>
