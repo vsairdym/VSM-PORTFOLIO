@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer · Web · Mobile · Backend · Cloud
 
-**[🌐 Live portfolio](https://vsairdym.github.io)** &nbsp;·&nbsp;
+**[🌐 Live portfolio](https://vsairdym.github.io/VSM-PORTFOLIO)** &nbsp;·&nbsp;
 **[⚡ 60-second recruiter view](https://vsairdym.github.io/#recruiter)** &nbsp;·&nbsp;
 **[💼 LinkedIn](https://www.linkedin.com/in/vsairm0x0)** &nbsp;·&nbsp;
 **[✉️ Email](mailto:venkatasairdy.maram@gmail.com)**
